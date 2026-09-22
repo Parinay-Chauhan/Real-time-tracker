@@ -4,6 +4,10 @@ A browser-based, multi-user location tracker built with Node.js, Express, Socket
 
 > This application uses the browser's Geolocation API. Users must explicitly grant location permission before their position can be shared.
 
+## Live Demo
+
+Try the deployed application: [https://real-time-tracker-6dq7.onrender.com](https://real-time-tracker-6dq7.onrender.com)
+
 ## Features
 
 - Live location updates using Socket.IO
